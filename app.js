@@ -64,35 +64,3 @@ function reiniciarJogo() {
     exibirMensagemInicial();
     document.getElementById('reiniciar').setAttribute('disabled', true)
 }
-
-
-
-
-
-
-
-
-
-
-//retun quer o retorno para ver o numero aleatorio para verificar o valor
-//adicionando funções para as variaveis
-//pega input do index, no caso o valor que e colocado para o usuario colocar a informaççao do numero
-//quando cliclar em chutar quero ver a comparação do numero e do numero secreto
-// boleano tipo tem que ser verdadeiro ou false
-// string texto
-//--diferença de funçoes com e sem return
-//-- parâmetros e retornos são essenciais para a comunicação entre funções e o restante do código
-
-
-
-//length quantidade de elementos da lista
-//criar uma lista para os numeros ja sorteados
-// ler linha a linha se declarar depois de algo, vai dar erro
-
-
-
-
-// push- adiciona  itme no final da lista
-//responsive voice
-//repositorio espaço reservado para criar um projeto
-//vercel.com  deploy disponibilizar projeto 
