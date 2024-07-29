@@ -64,4 +64,7 @@ function reiniciarJogo() {
     exibirMensagemInicial();
     document.getElementById('reiniciar').setAttribute('disabled', true)
 }
-//dasd
+
+
+
+//dasd remova essa linha
